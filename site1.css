@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#cards_opcoes{
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 70px;
+}
+#cards_opcoes #form{
+    width: 100%;
+    padding: 50px;
+    background: black;
+    color: white;
+}
+footer{
+    width: 100%;
+    padding: 50px;
+    background: black;
+    color: white;
+}
+
